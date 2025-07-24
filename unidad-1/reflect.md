@@ -11,6 +11,7 @@
 ### Piensa en los referentes que vimos. ¿Qué tienen en común sus trabajos? ⚔️
 - 
 ### ¿Qué papel juega la aleatoriedad en los sketches básicos que creaste en la Actividad 04? ⏫
-- 
+- Juega un papel demasiado importante que nos ayuda a experimentar resultados, es a mi consideracion una parte fundamental de todo este tema de diseño/arte generativo, experimentar nos da un aprendizaje muy positivo
 ## Parte 2 🕶️
 ### La Actividad 05 te pedía explícitamente “disfruta del proceso, experimenta, juega, diviértete”. Describe un momento durante esa actividad en el que te sentiste realmente explorando o jugando, y qué descubriste en ese momento 🌩️
+- Hubo un momento en que el circulo no generaba las lineas si no que solo se agrandaba el circulo, me puse a investigar y descubri funciones interesantes como TAU que es como decir Pi que es el radio de la circunferencia en un circulo, eso me parecio interesante, tambien la parte en la que cree el ratio del circulo, buscar las maneras en que mapeaba el mouse para que se pudiera crear las lineas y darle su interactividad me gusto mucho
