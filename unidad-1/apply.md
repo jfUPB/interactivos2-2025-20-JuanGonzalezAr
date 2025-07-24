@@ -16,10 +16,16 @@
 ### Explore 📱
 - Primero empece cambiando el color del sketch, luego queria implementar una `duplicacion` de circulos, es decir, queria probar si se podia poner 2 circulos en el sketch y ver como se comportaba con una funcion translate, estuve intentando con ciclos for y de las formas que probe no me funciono entonces decidi cambiarle solo el color, tambien cambie el numero de lineas que se generan que se cambio en el circle ratio.
 
-![Evidencias 1](evvidencias1.png)
+<img width="1628" height="903" alt="evidencias" src="https://github.com/user-attachments/assets/ffd87a52-bc0f-4339-82c1-816f80217150" />
+
+
 
 ### Tinker 🤔
 - Modifique el storkeWeight para tratar de romper el curso normal del sketch en vez de un mouseY implemente un mouseX que no dejaba crear el circulo o agrandarlo de tamaño y que creara las lineas normales que se crean, tambien intercambie los parametros de radio y angulo que dañan completamente el sketch y eliminan tambien la funcion de el sketch original, aqui tambien intente crear 2 circulos con un ciclo for para un translate y ver como se comportaba y literalmente se me cerro el programa, no me funciono mas y me tocaba cerrarlo
+<img width="1314" height="651" alt="Evidencia1" src="https://github.com/user-attachments/assets/4c4c2759-d9eb-4794-9636-0be4077eb8b9" />
+<img width="1897" height="1012" alt="image" src="https://github.com/user-attachments/assets/40049c57-ceba-492f-b88b-c0c75435ee90" />
+
+
 
 
 
