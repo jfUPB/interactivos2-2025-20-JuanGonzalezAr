@@ -14,9 +14,14 @@
 - https://editor.p5js.org/JuanGonzalezAr/sketches/kzaeZpKHX
 - Empecé intentando `recrear` algo que ya había visto o usado antes. Lo primero fue centrar el círculo, para lo cual utilicé translate(), una función que ya conocía. Luego intenté crear el círculo desde cero, pero al final necesité revisar el sketch original porque no lograba obtener el efecto deseado. Descubrí que la clave era el ciclo for, que permite dibujar múltiples líneas formando un círculo. También tuve dificultades con el cálculo del ángulo y el radio, ya que los estaba usando al revés, lo que impedía que las líneas se generaran correctamente. Finalmente entendí que las funciones cos() y sin() eran esenciales: se encargan de calcular la posición horizontal y vertical de cada punto alrededor del centro del lienzo. Esa parte es el corazón del sketch.
 ### Explore 📱
-- Primero empece cambiando el color del sketch, luego queria implementar una `duplicacion` de circulos, es decir, queria probar si se podia poner 2 circulos en el sketch y ver como se comportaba con una funcion translate, estuve intentando con ciclos for y de las formas que probe no me funciono entonces decidi cambiarle solo el color, tambien cambie el numero de lineas que se generan que se cambio en el circle ratio
+- Primero empece cambiando el color del sketch, luego queria implementar una `duplicacion` de circulos, es decir, queria probar si se podia poner 2 circulos en el sketch y ver como se comportaba con una funcion translate, estuve intentando con ciclos for y de las formas que probe no me funciono entonces decidi cambiarle solo el color, tambien cambie el numero de lineas que se generan que se cambio en el circle ratio.
 
 ![Evidencias 1](evvidencias1.png)
+
+### Tinker 🤔
+- Modifique el storkeWeight para tratar de romper el curso normal del sketch en vez de un mouseY implemente un mouseX que no dejaba crear el circulo o agrandarlo de tamaño y que creara las lineas normales que se crean, tambien intercambie los parametros de radio y angulo que dañan completamente el sketch y eliminan tambien la funcion de el sketch original, aqui tambien intente crear 2 circulos con un ciclo for para un translate y ver como se comportaba y literalmente se me cerro el programa, no me funciono mas y me tocaba cerrarlo
+
+
 
 
 
