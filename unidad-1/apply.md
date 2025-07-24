@@ -14,9 +14,11 @@
 - https://editor.p5js.org/JuanGonzalezAr/sketches/kzaeZpKHX
 - Empecé intentando `recrear` algo que ya había visto o usado antes. Lo primero fue centrar el círculo, para lo cual utilicé translate(), una función que ya conocía. Luego intenté crear el círculo desde cero, pero al final necesité revisar el sketch original porque no lograba obtener el efecto deseado. Descubrí que la clave era el ciclo for, que permite dibujar múltiples líneas formando un círculo. También tuve dificultades con el cálculo del ángulo y el radio, ya que los estaba usando al revés, lo que impedía que las líneas se generaran correctamente. Finalmente entendí que las funciones cos() y sin() eran esenciales: se encargan de calcular la posición horizontal y vertical de cada punto alrededor del centro del lienzo. Esa parte es el corazón del sketch.
 ### Explore 📱
-- Primero empece cambiando el color del sketch, luego queria implementar una `duplicacion` de circulos, es decir, queria probar si se podia poner 2 circulos en el sketch y ver como se comportaba con una funcion translate, estuve intentando con ciclos for y de las formas que probe no me funciono entonces decidi cambiarle solo el color, tambien cambie el numero de lineas que se generan que se cambio en el circle ratio.
+- Primero empece cambiando el color del sketch, luego queria implementar una `duplicacion` de circulos, es decir, queria probar si se podia poner 2 circulos en el sketch y ver como se comportaba con una funcion translate, estuve intentando con ciclos for y de las formas que probe no me funciono entonces decidi cambiarle solo el color, tambien cambie el numero de lineas que se generan que se cambio en el circle ratio, quise como ultima idea de modificacion que el circulo se creara y que fuera de colores random asi que hice que fuera multicolor creando funciones con parametros de random para que pueda ir cambiando de color
 
 <img width="1628" height="903" alt="evidencias" src="https://github.com/user-attachments/assets/ffd87a52-bc0f-4339-82c1-816f80217150" />
+<img width="1887" height="1003" alt="image" src="https://github.com/user-attachments/assets/255bc184-5610-4c94-8ac9-028a7047df99" />
+
 
 
 
