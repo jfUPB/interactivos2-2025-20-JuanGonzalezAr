@@ -27,7 +27,17 @@
 - Tendria un cambio significativo en la experiencia ya que en la parte de `revelacion` es el principal input de esta parte del concierto, sin esa entrada de palabras no se puede generar la experiencia en general ya que esas palabras son las que chocan con "llama" que es el aura de Neron y no se convertirian las palabras en algo positivo
 ---
 ## <p align=center> Actividad 3 </p>
-### Explica con tus propias palabras la diferencia entre un “evento” en una película tradicional y un “nodo generativo” en la experiencia de “Prometeo”.
+### Explica con tus propias palabras la diferencia entre un “evento” en una película tradicional y un “nodo generativo” en la experiencia de “Prometeo”. 🤙
 - Un evento en una pelicula esta predefinido por unos parametros lineales como climax y entre otras cosas, es algo que la audiencia ya esta esperando que aunque logra impresionar sigue un modelo de desarrollo lineal
 - Un nodo generativo en la experiencia de prometeo es a diferencia de un evento en una pelicula algo que es inesperado ya que depende de muchos factores (inputs) por ejemplo en la experiencia de prometeo no se sabe como sera la entonacion o "flow" con el que va cantar Neron ya que esto son factores que pueden variar en el desarrollo de la experiencia, como tambien palabras que el publico pueda mandar que son totalmente variables y van dando un curso diferente e interesante 
+### ¿Quién crees que tiene más “poder” o “agencia” en la creación de la experiencia final de “Prometeo”: el artista, el público o los diseñadores del sistema? Justifica tu respuesta. 🔥
+- Yo creeria que es una mezcla entre el artista y el diseñador, por un lado el artista es quien enciende la chispa del sistema, sin su voz o `flow` el sistema no tendria sentido y seria algo mas ahi que probablemente funcione con otro artista pero la idea seria que fuera el propio Neron que lleve a que el sistema sea una experiencia agradable y chevere para el publico, ahora, esta el artista/diseñador del sistema que es quien literalmente hace que Neron pueda dar un show hacia el publico, quien crea los algoritmos o nodos que van a hacer que la voz de Neron cobrre vida, que a mi parecer es algo fundamental en un show, toda voz tiene que estar acompañada de algo que haga mas ameno la experiencia del show y esos algoritmos y nodos que crea el diseñador son ese extra que completa una experiencia en un show, asi que si tuviera que elegir entre los dos diria que un 60% hacia el artista y un 40% hacia el diseñador
+### El documento dice que el objetivo es generar “EPIFANÍAS” en lugar de “empatía”. ¿Qué crees que significa esto en el contexto de una experiencia inmersiva? ▶️
+- Son momentos de comprensión personal o descubrimiento que no vienen dictados por una narrativa fija, sino que emergen a partir de la interacción del usuario con el sistema, es decir, que a diferencia de una "pelicula" con una trama lineal el significado se va construyendo en tiempo real, según las decisiones del artista, las intervenciones del público y la interpretación del sistema. La epifanía surge cuando el usuario reconoce algo inesperado o significativo a través de la interacción. 
+
+
+
+
+
+
 
