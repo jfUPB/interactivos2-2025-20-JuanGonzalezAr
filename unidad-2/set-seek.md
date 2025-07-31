@@ -25,4 +25,9 @@
 - El elemento que me parece mas inovador es la parte de conflicto, todo lo que implica que se traduzcan el cambio en el "flow" o en la percusion me parece muy interesante y que eso se vuelvan ataques es algo increible, tambien la parte que Neron tenga un `aura` que hace que esos ataques se limpien y vayan despejando zonas del domo tambien me interesa mucho, mas que todo saber como se aplicaria en otras experiencias, me gustaria aprender sobre esto para poder comprender mas a fondo como se desarrollan estas interacciones
 > Cómo crees que la experiencia del público cambiaría si uno de los inputs (por ejemplo, las palabras del público) fuera eliminado?
 - Tendria un cambio significativo en la experiencia ya que en la parte de `revelacion` es el principal input de esta parte del concierto, sin esa entrada de palabras no se puede generar la experiencia en general ya que esas palabras son las que chocan con "llama" que es el aura de Neron y no se convertirian las palabras en algo positivo
+---
+## <p align=center> Actividad 3 </p>
+### Explica con tus propias palabras la diferencia entre un “evento” en una película tradicional y un “nodo generativo” en la experiencia de “Prometeo”.
+- Un evento en una pelicula esta predefinido por unos parametros lineales como climax y entre otras cosas, es algo que la audiencia ya esta esperando que aunque logra impresionar sigue un modelo de desarrollo lineal
+- Un nodo generativo en la experiencia de prometeo es a diferencia de un evento en una pelicula algo que es inesperado ya que depende de muchos factores (inputs) por ejemplo en la experiencia de prometeo no se sabe como sera la entonacion o "flow" con el que va cantar Neron ya que esto son factores que pueden variar en el desarrollo de la experiencia, como tambien palabras que el publico pueda mandar que son totalmente variables y van dando un curso diferente e interesante 
 
