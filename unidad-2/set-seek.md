@@ -1,9 +1,9 @@
-# <p align=center > Unidad 2 </p>
+#  Unidad 2 
 
 
 
 # <p align=center>🔎 Fase: Set + Seek </p>
-> ## Actividad 1 💣
+## <p align=center> Actividad 1 💣 </p>
 <a href="https://kristapskazaks.com/arturs-skutelis-vienkarsi-vardi">
   <button>Ejemplo elegido</button> </a>
 
@@ -20,6 +20,9 @@
 > ## Mapa
 <img width="555" height="555" alt="image" src="https://github.com/user-attachments/assets/590d85fe-e57d-457c-9ee7-49d5c30bd73c" />
 
-### Reflexion ☮️
-- 
+## Reflexion ☮️
+> ¿Qué elemento del diseño te parece más innovador y por qué? 🪵
+- El elemento que me parece mas inovador es la parte de conflicto, todo lo que implica que se traduzcan el cambio en el "flow" o en la percusion me parece muy interesante y que eso se vuelvan ataques es algo increible, tambien la parte que Neron tenga un `aura` que hace que esos ataques se limpien y vayan despejando zonas del domo tambien me interesa mucho, mas que todo saber como se aplicaria en otras experiencias, me gustaria aprender sobre esto para poder comprender mas a fondo como se desarrollan estas interacciones
+> Cómo crees que la experiencia del público cambiaría si uno de los inputs (por ejemplo, las palabras del público) fuera eliminado?
+- Tendria un cambio significativo en la experiencia ya que en la parte de `revelacion` es el principal input de esta parte del concierto, sin esa entrada de palabras no se puede generar la experiencia en general ya que esas palabras son las que chocan con "llama" que es el aura de Neron y no se convertirian las palabras en algo positivo
 
