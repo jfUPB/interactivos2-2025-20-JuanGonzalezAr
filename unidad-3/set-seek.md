@@ -56,3 +56,6 @@ socket.on('connect', () => {
     console.log('Sent:', data);
 });
 ```
+
+### Link video:
+- https://youtube.com/shorts/Tez4yrwVNIw?si=AIjaTL0hYua9dcjE
